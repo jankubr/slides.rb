@@ -5,8 +5,8 @@ Powerpoint or Keynote? Ruby! Slides.rb is the ultimate Ruby geek friendly presen
 Download slides.rb
 
 = Usage
-* Create your presentation in a Ruby file by placing an array of arrays in a @slides variable. The first item of each item is a title of the slide, 
-   the second is the content of it. The content can be a string, a hash, or an array.
+* Create your presentation in a Ruby file by placing an array of arrays in the @slides variable. The first item of each item is a title of the slide, 
+the second is the content of it. The content can be a string, a hash, or an array.
 
     require 'slides'
 
